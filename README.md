@@ -1,13 +1,18 @@
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/developer-working-on-desktop-illustration-download-in-svg-png-gif-file-formats--coding-programmer-software-web-development-pack-business-illustrations-6430773.png" align="right" width="400" alt="Developer Illustration" />
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="right" width="400" alt="Coding GIF" />
 
 # Hi 👋, I'm Mir Izhan Jaweri
 
 ### BE Computer Systems Engineer | Cybersecurity, Python & Full Stack Dev | Turning code into solutions
 
-- 🎓 **Education:** BE Computer Systems Engineer
-- 🌱 **Learning:** MERN Stack, Advanced Python, Cybersecurity Tools
-- 💬 **Ask me about:** Python, Cybersecurity, MERN Stack, Web Development
-- 📫 **How to reach me:** [mirizhan555@gmail.com](mailto:mirizhan555@gmail.com)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mir-izhan-jaweri&label=Profile%20views&color=0e75b6&style=flat" alt="mir-izhan-jaweri" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mir-izhan-jaweri" alt="mir-izhan-jaweri" /></a> </p>
+
+- 🌱 I’m currently learning **MERN Stack, Advanced Python, Cybersecurity Tools**
+
+- 💬 Ask me about **Python, Cybersecurity, MERN Stack, Web Development**
+
+- 📫 How to reach me **mirizhan555@gmail.com**
 
 <br />
 
@@ -63,6 +68,8 @@
 
 <br /><br />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mir-izhan-jaweri&" alt="Streak Stats" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mir-izhan-jaweri&show_icons=true&locale=en&layout=compact" alt="mir-izhan-jaweri" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mir-izhan-jaweri&show_icons=true&locale=en" alt="mir-izhan-jaweri" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mir-izhan-jaweri&" alt="mir-izhan-jaweri" /></p>
