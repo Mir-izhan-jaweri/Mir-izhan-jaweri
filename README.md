@@ -4,10 +4,6 @@
 
 ### BE Computer Systems Engineer | Cybersecurity, Python & Full Stack Dev | Turning code into solutions
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mir-izhan-jaweri&label=Profile%20views&color=0e75b6&style=flat" alt="mir-izhan-jaweri" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mir-izhan-jaweri" alt="mir-izhan-jaweri" /></a> </p>
-
 - 🌱 I’m currently learning **MERN Stack, Advanced Python, Cybersecurity Tools**
 
 - 💬 Ask me about **Python, Cybersecurity, MERN Stack, Web Development**
